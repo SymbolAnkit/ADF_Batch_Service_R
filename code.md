@@ -42,7 +42,7 @@
 
       Dataset <- read.csv(blobUrl)
 
-__ Perfrom your data transformation and monipulation work __ 
+#####_Perfrom your data transformation and manipulation work_ 
 
 ### Create a local temporary folder and save the result of the analysis
     dir.create("output")
